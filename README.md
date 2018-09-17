@@ -18,7 +18,7 @@ logging time recorded and summarizing timers by week.
 - `pomogoro start -w`: starts a 25 min session defined in a config.
 - `pomogoro start -w -t 20`: starts a 20 minute session overriding config.
 - `pomogoro start -s`: starts a 5 minute (short) break defined in config.
-- `pomogoro start -s -t 10: starts a 10 minute (short) break overriding config.
+- `pomogoro start -s -t 10`: starts a 10 minute (short) break overriding config.
 - `pomogoro start -l`: starts a 30 minute (long) break defined in config.
 - `pomogoro start -c`: starts a count-up timer from 00:00.
 - `pomogoro stop -w`, `pomogoro stop -s`, `pomogoro stop -l`: ends timer prematurely.
